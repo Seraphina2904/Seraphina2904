@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hello World!
 
+I am a aspiring developer mostly interested in cybersecurity, data protection and machine learning.
+
+I am currently learning with the great video series by Andrej Karpathy.
 <!--
 **Seraphina2904/Seraphina2904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
